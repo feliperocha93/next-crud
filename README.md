@@ -1,34 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Crud 📚💻🎓
+This is a CRUD ussing Nextjs and Firebase. It was made in [Next.js & React - Curso Completo - Totalmente Baseado em Projetos](https://www.cod3r.com.br/courses/nextjs), a nextjs course from [Cod3r](https://www.cod3r.com.br/).
 
-## Getting Started
+## Running the app 🏃🏼‍♂🔥
+```
+$ git clone https://github.com/feliperocha93/next-crud.git
 
-First, run the development server:
+$ cd next-crud
 
-```bash
-npm run dev
-# or
-yarn dev
+$ yarn install
+
+$ yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Goals ⚽🥅
+Pratice NextJs.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Main Lessons about NextJs 📑👩🏿‍🎓
+- Integration with Tailwind CSS
+- Integration with Firebase store
+- Custom hooks
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Other Lessons 🔖😲
+- Env variables
+- Repository Pattern
+- Typescript
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+##
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img align="center" alt="Node" title="Node" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
